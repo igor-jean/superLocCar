@@ -1,0 +1,80 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.navbar-dark {
+    --bs-navbar-hover-color: rgb(255, 255, 255);
+}
+
+.carousel {
+    height: 775px;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    height: 775px;
+    
+}
+
+.carousel-item {
+    height: 775px;
+}
+
+.carousel-caption {
+    width: 100%;
+    left: 0;
+    bottom: 0;
+
+}
+.offre {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(25%, -25%);
+}
+.offre img {
+    width: 100%;
+}
+
+.prixOffre {
+    position: absolute;
+    top: 45%;
+    right: 35%;
+}
+
+.actualite-background-image {
+    background: fixed no-repeat center/cover url(../img/bmw.jpg) ;
+    width: 100%;
+    height: 100%;
+}
+
+.hover-display {
+    width: 636px;
+    height: 239px;
+    background-color: rgba(0, 0, 0, 0.493);
+    display: none;
+    position: absolute;
+}
+
+.actu-index:hover .hover-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.actu-index {
+    width: 636px;
+    height: 239px;
+    
+}
+
+@media screen and (max-width: 1400px) {
+    .actu-index {
+        width: 100%;
+    }
+    .hover-display {
+        width: 84%;
+    }
+}
