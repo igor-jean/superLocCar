@@ -7,17 +7,7 @@ body {
 }
 
 .carousel {
-    height: 775px;
     overflow: hidden;
-}
-
-.carousel-inner {
-    height: 775px;
-    
-}
-
-.carousel-item {
-    height: 775px;
 }
 
 .carousel-caption {
@@ -51,8 +41,6 @@ body {
 }
 
 .hover-display {
-    width: 636px;
-    height: 239px;
     background-color: rgba(0, 0, 0, 0.493);
     display: none;
     position: absolute;
@@ -64,17 +52,89 @@ body {
     align-items: center;
 }
 
-.actu-index {
-    width: 636px;
-    height: 239px;
-    
+details[open] > summary:first-of-type {
+    list-style: url(../img/minus-solid.svg);
+    transition: ease 0.3s;
 }
 
-@media screen and (max-width: 1400px) {
-    .actu-index {
-        width: 100%;
-    }
-    .hover-display {
-        width: 84%;
-    }
+details > summary:first-of-type {
+    list-style: url(../img/plus-solid.svg);
+    transition: ease 0.3s;
 }
+.lien-reseaux:hover {
+    transform: scale(1.2);
+}
+
+.fil-ariane {
+    min-width: 200px;
+}
+.fil-ariane ol{
+    justify-content: center;
+}
+
+.fil-ariane::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: -22px;
+    width: 200px;
+    height: 100%;
+    background: #ffffff;
+    transform: skewX(-37deg);
+    z-index: -1;
+    border-bottom: 2px solid rgb(33,37,41);
+    border-right: 2px solid rgb(33,37,41);
+}
+
+.fil-ariane::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -22px;
+    width: 200px;
+    height: 100%;
+    background: #ffffff;
+    transform: skewX(37deg);
+    z-index: -1;
+    border-bottom: 2px solid rgb(33,37,41);
+    border-left: 2px solid rgb(33,37,41);
+}
+
+.carousel-voiture {
+    height: 235px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/angles-left-solid.svg);
+}
+
+.carousel-control-next-icon {
+      background-image: url(../img/angles-right-solid.svg);
+  }
+
+  .input-group-append {
+    cursor: pointer;
+  }
+  .scaleActu {
+      transition: ease 0.5s;
+
+  }
+  .scaleActu:hover {
+    transform: scale(1.05) !important;
+  }
+
+  .imagesActu::-webkit-scrollbar {
+    display: none;
+  }
+
+  @media screen and (max-width: 1200px) {
+      .carousel-caption {
+        display: none !important;
+      }
+      .searchBar {
+        display: none !important;
+      }
+
+  }

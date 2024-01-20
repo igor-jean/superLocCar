@@ -1,6 +1,6 @@
-<footer class="pt-5 border border-top ">
+<footer class="pt-5 <?php if($currentPage != "/php/SuperLocCar/contact.php") {echo "border border-top";} ?>">
     <div class="container-lg">
-        <div class="row">
+        <div class="row" <?php if($currentPage === "/php/SuperLocCar/contact.php") {echo 'style="display:none"';} ?> >
           <div class="col-12 col-sm-4 col-lg-2 mb-3">
             <h5>Navigation</h5>
             <ul class="nav flex-column">

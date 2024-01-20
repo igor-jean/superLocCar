@@ -103,9 +103,9 @@
             <div class="actualite-background-image py-5 ">
                 <div class="container-lg">
                     <div class="row">
-                        <div class="col-12 col-xxl-6">
-                            <div class="actu-index mb-4">
-                                <div class="hover-display">
+                        <div class="col-12 col-xxl-6 mb-4">
+                            <div class="actu-index position-relative w-100">
+                                <div class="hover-display w-100 h-100 position-absolute top-50 start-50 translate-middle">
                                     <a class="link-underline-opacity-0 btn btn-dark text-uppercase " href="">En savoir plus&emsp;<i class="fa-solid fa-square-caret-right"></i></a>
                                 </div>
                                 <div class="bg-dark bg-opacity-50 text-light p-3 d-flex h-100">
@@ -120,9 +120,9 @@
 
                             </div>
                         </div>
-                        <div class="col-12 col-xxl-6">
-                            <div class="actu-index mb-4 ">
-                                <div class="hover-display">
+                        <div class="col-12 col-xxl-6 mb-4">
+                            <div class="actu-index position-relative w-100">
+                                <div class="hover-display w-100 h-100 position-absolute top-50 start-50 translate-middle">
                                     <a class="link-underline-opacity-0 btn btn-dark text-uppercase " href="">En savoir plus&emsp;<i class="fa-solid fa-square-caret-right"></i></a>
                                 </div>
                                 <div class="bg-dark bg-opacity-50 text-light p-3 d-flex h-100">
@@ -136,9 +136,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-xxl-6">
-                            <div class="actu-index mb-4 ">
-                                <div class="hover-display">
+                        <div class="col-12 col-xxl-6 mb-4">
+                            <div class="actu-index position-relative w-100">
+                                <div class="hover-display w-100 h-100 position-absolute top-50 start-50 translate-middle">
                                     <a class="link-underline-opacity-0 btn btn-dark text-uppercase " href="">En savoir plus&emsp;<i class="fa-solid fa-square-caret-right"></i></a>
                                 </div>
                                 <div class="bg-dark bg-opacity-50 text-light p-3 d-flex h-100">
@@ -152,9 +152,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-xxl-6">
-                            <div class="actu-index">
-                            <div class="hover-display mb-4 ">
+                        <div class="col-12 col-xxl-6 mb-4">
+                            <div class="actu-index position-relative w-100">
+                            <div class="hover-display w-100 h-100 position-absolute top-50 start-50 translate-middle">
                                     <a class="link-underline-opacity-0 btn btn-dark text-uppercase " href="">En savoir plus&emsp;<i class="fa-solid fa-square-caret-right"></i></a>
                                 </div>
                                 <div class="bg-dark bg-opacity-50 text-light p-3 d-flex h-100">
