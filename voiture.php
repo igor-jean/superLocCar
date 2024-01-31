@@ -13,11 +13,11 @@
         </div>
     </div>
     <main class="py-5">
-        <div class="container-lg">
+        <div class="container-md">
             <div class="row">
-                <div class="col-8">
+                <div class="col-xl-8">
                     <div class="fs-5 pe-3">
-                        <h1 class="display-6 mb-5">BMW Série 3 : L'Élégance Redéfinie, La Puissance Réinventée - Votre Voyage Vers l'Excellence Automobile</h1>
+                        <h1 class="display-6 mb-5 titre-voiture">BMW Série 3 : L'Élégance Redéfinie, La Puissance Réinventée - Votre Voyage Vers l'Excellence Automobile</h1>
                         <p>
                             La BMW Série 3 est une voiture emblématique qui incarne l'alliance parfaite entre performance, élégance et technologie. Conçue par le constructeur allemand BMW, cette berline de luxe a su évoluer au fil des années pour rester à la pointe de l'innovation automobile. Arborant un design dynamique et sophistiqué, la Série 3 attire les regards avec sa calandre distinctive, ses lignes fluides et ses phares effilés.
                         </p>
@@ -33,7 +33,7 @@
                     </div>
                     
                 </div>
-                <div class="col-4">
+                <div class="col-xl-4">
                     <div class="carousel-voiture position-relative">
                         <div id="carouselExampleIndicators" class="carousel slide h-100 ">
                             <div class="carousel-inner h-100 ">

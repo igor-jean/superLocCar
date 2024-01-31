@@ -5,17 +5,17 @@
         <div class="fil-ariane d-inline-block position-relative mx-auto">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb mb-0 py-2">
-                    <li class="breadcrumb-item"><a class="link-dark link-offset-2 fw-bold " href="index.html">Accueil</a></li>
+                    <li class="breadcrumb-item"><a class="link-dark link-offset-2 fw-bold " href="index.php">Accueil</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Contact</li>
                 </ol>
             </nav>
         </div>
     </div>
     <main class="my-5">
-        <div class="container-lg">
+        <div class="container-md">
             <h1 class="my-5">Nous contacter</h1>
             <div class="row mb-5 ">
-                <div class="col-8">
+                <div class="col-12 col-md-8">
                     <form class="row">
                         <div class="col-12">
                             <label for="validationServer01" class="form-label">Nom :</label>
@@ -33,28 +33,26 @@
                             </div>
                         </div>
                         <div class="mb-3">
-                            <label for="validationTextarea" class="form-label">Textarea</label>
-                            <textarea class="form-control mb-5" id="validationTextarea" placeholder="Message" required></textarea>
+                            <label for="validationTextarea" class="form-label">Message</label>
+                            <textarea class="form-control mb-5" id="validationTextarea" required></textarea>
                         </div>
-                        <div class="col-6">
-                            <div class="form-check mb-5">
-                            <input class="form-check-input" type="checkbox" value="" id="invalidCheck3" aria-describedby="invalidCheck3Feedback" required>
-                            <label class="form-check-label" for="invalidCheck3">
-                                Accepter d'être recontacter
-                            </label>
-                            <div id="invalidCheck3Feedback">
-                                Vous devez être d'accord avant de soumettre.
-                            </div>
+                        <div class="col-md-6">
+                            <div class="form-check mb-5 d-flex justify-content-center">
+                                <input class="form-check-input " type="checkbox" value="" id="invalidCheck3" aria-describedby="invalidCheck3Feedback" required>
+                                <label class="form-check-label" for="invalidCheck3">
+                                    Accepter d'être recontacter
+                                </label>
+                                <div id="invalidCheck3Feedback">
+                                    Vous devez être d'accord avant de soumettre.
+                                </div>
                             </div>
                         </div>
-                        <div class="col-6">
-                        <button type="submit" class=" w-50 btn btn-outline-dark fw-bold fs-4 border border-dark  border-3 ">
-                                       Envoyer</button>
+                        <div class="col-md-6">
+                            <button type="submit" class="d-block w-50 btn btn-outline-dark fw-bold fs-4 border border-dark mx-auto border-3 "> Envoyer</button>
                         </div>
                     </form>
-
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-md-4">
                     <div class="row ps-5 ">
                         <div class="col-12 my-5">
                             <h5 class="mb-0">Navigation</h5>
@@ -78,13 +76,12 @@
                         <div class="col-12 mb-5">
                             <h5 class="mb-0">Adresse de l'agence</h5>
                             <ul class="nav flex-column">
-                                <li class="nav-item"><a href="#" class="nav-link p-0 text-muted">Super Loc Company</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link p-0 text-muted">146 rue des hortensias</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link p-0 text-muted">59 160</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link p-0 text-muted">LILLE</a></li>
+                                <li class="nav-item">Super Loc Company</li>
+                                <li class="nav-item">146 rue des hortensias</li>
+                                <li class="nav-item">59 160</li>
+                                <li class="nav-item">LILLE</li>
                             </ul>
                         </div>
-                        
                     </div>
                 </div>
             </div>

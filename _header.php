@@ -6,9 +6,9 @@
         <div class="container-fluid d-block px-0 ">
             <div class="d-flex ">
                 <a class="navbar-brand ms-2 " href="index.php">
-                    <img class="vh-25 mb-2 " src="img\logo.png" alt="logo">
+                    <img class="vh-25 mb-2 logo" src="img\logo.png" alt="logo">
                 </a>
-                <p class=" display-5  h-100 w-100 text align-self-center text-center"><i class="fa-solid fa-quote-left translate-middle-y"></i>  Explorez le chemin de l'avenir au volant de votre voiture idéale  <i class="fa-solid fa-quote-right translate-middle-y"></i></p>
+                <p class="baseline h1 h-100 w-100 align-self-center text-center lh-base"><i class="fa-solid fa-quote-left translate-middle-y"></i>  Explorez le chemin de l'avenir au volant de votre voiture de rêves !<i class="fa-solid fa-quote-right translate-middle-y"></i></p>
             </div>
             <button class="navbar-toggler w-100 align-self-center bg-dark " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span><i class="fa-solid fa-bars" style="color: #ffffff;"></i></span>

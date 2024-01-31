@@ -15,7 +15,7 @@
     <main class="my-5">
         <div class="container-lg">
             <div class="row">
-                <div class="col-8 p-3 ">
+                <div class="col-xl-8 p-3 ">
                     <figure>
                         <blockquote class="blockquote">
                             <h1>Le Rallye des Flandres, une course automobile mythique près de Lille</h1>
@@ -46,15 +46,13 @@
                         En conclusion, le Rallye des Flandres est <strong>une course automobile mythique</strong> et incontournable dans la région de Lille en <strong>France</strong>. Avec son parcours varié et <strong>spectaculaire</strong>, ses <strong>pilotes</strong> de renommée <strong>internationale</strong> et ses milliers de spectateurs enthousiastes, cette course est un véritable événement dans <strong>le monde des sports mécaniques</strong>. Si vous êtes un passionné de voitures de course, ne manquez pas le Rallye des Flandres, une course automobile qui vous laissera des souvenirs inoubliables.
                     </p>
                 </div>
-                <div class="col-4">
-                    <div class="h-75 mt-5 overflow-scroll imagesActu">
+                <div class="d-none d-xl-block col-xl-4">
+                    <div class="h-100 mt-5 imagesActu">
                         <img src="img\pexels-devon-rockola-800629.jpg" alt="" class="img-fluid mb-5">
                         <img src="img\pexels-rangga-aditya-armien-235333.jpg" alt="" class="img-fluid mb-5">
                         <img src="img\pexels-mat-sheard-9620938.jpg" alt="" class="img-fluid mb-5">
                         <img src="img\pexels-og-productionz-15397789.jpg" alt="" class="img-fluid mb-5">
                         <img src="img\pexels-daniel-158971.jpg" alt="" class="img-fluid mb-5">
-                        <img src="img\pexels-nikaff-950738.jpg" alt="" class="img-fluid mb-5">
-                        <div class="h-100"></div>
                     </div>
                 </div>
             </div>
