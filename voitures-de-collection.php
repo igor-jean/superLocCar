@@ -13,11 +13,11 @@
     </div>
     <main class="py-5 ">
         <div class="container-xl">
-            <div class="row">
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+            <div class="row g-4">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\pexels-murat-soyluoglu-1209774.jpg" class="card-img-top" alt="...">
-                        <div class="card-body ms-3">
+                        <div class="card-body">
                                 <h5 class="card-title text-dark fw-bold fs-4">Volkswagen Coccinelle</h5>
                                 <p class="card-text">La Volkswagen Coccinelle, symbole intemporel, allie design distinctif et histoire riche. Compacte et stylisée, elle incarne l'innovation de Volkswagen. Légendaire et reconnaissable, elle séduit par son charme rétro et sa conduite agile.</p>
                                 <a title="lien" class="btn btn-outline-dark fw-bold fs-5 border border-dark border-3" href="voiture.php">
@@ -25,8 +25,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\car-1032068_640.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Chevrolet Nomad</h5>
@@ -37,8 +37,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\car-8245437_640.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Jaguar Type E</h5>
@@ -48,8 +48,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\IMG_9420.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">K-2000</h5>
@@ -59,8 +59,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\pexels-matthew-leland-807677.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Buick Skylark</h5>
@@ -70,8 +70,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\pexels-vlada-karpovich-4449866.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Lincoln Continental Mark IV</h5>
@@ -81,8 +81,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\pexels-mali-maeder-457609.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Cadillac DeVille</h5>
@@ -92,8 +92,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\pexels-anton-h-13407379.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Ford Mustang</h5>
@@ -103,8 +103,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-xl-4 mb-4 d-flex">
-                    <div class="card mb-4 w-100 flex-fill" style="width: 18rem;">
+                <div class="col-12 col-md-6 col-xl-4 d-flex">
+                    <div class="card w-100 flex-fill" style="width: 18rem;">
                         <img src="img\pexels-thomas-balabaud-3404355.jpg" class="card-img-top" alt="...">
                         <div class="card-body ms-3" >
                             <h5 class="card-title text-dark fw-bold fs-4">Mercedes-Benz W114</h5>

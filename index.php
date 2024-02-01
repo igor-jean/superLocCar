@@ -83,7 +83,7 @@
         <!-- PRESENTATION -->
         <section class="bg-dark mt-5 py-4 text-light fs-4 ">
             <div class="container-lg">
-                <h2 class="text-uppercase w-75 mx-auto text-center display-5 mb-5"><span class="text-primary ">SUPER CAR COMPANY</span>, le spécialiste de la location de voitures de luxe et de collection !</h2>
+                <h2 class="text-uppercase w-75 mx-auto text-center display-5 mb-5"><span class="text-warning">SUPER CAR COMPANY</span>, le spécialiste de la location de voitures de luxe et de collection !</h2>
                 <p>
                     En tant que première agence de location de voitures de luxe et de collection de la région, nous sommes fiers de vous offrir une expérience de conduite incomparable.
                 </p>

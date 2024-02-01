@@ -138,8 +138,19 @@ border-radius: 0 !important;
     width: 75%;
     margin: 0 auto;
 }
+.card-75 h3 {
+    font-size: 1.2rem !important;
+    text-align: center;
 }
-
+.card-75 p {
+    display: none;
+}
+.card-75 a {
+    margin: 0 auto;
+    display: block;
+    width: 75%;
+}
+}
 
 @media screen and (max-width: 800px) {
 .baseline {
